@@ -1,0 +1,15 @@
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:text="@string/hello_blank_fragment"
+        android:layout_centerInParent="true"
+        android:textSize="50sp"
+        android:background="#987"
+        android:id="@+id/txt"
+        android:gravity="center"
+        android:textColor="#000"
+        xmlns:android="http://schemas.android.com/apk/res/android" />
+
+
